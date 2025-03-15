@@ -20,7 +20,7 @@ const translations = {
         feature4Title: "Multilanguage Support",
         feature4Description: "Support for multiple languages to reach a global audience.",
         feature5Title: "Payment Support", // New
-        feature5Description: "Accept payments seamlessly with integrated payment gateways.", // New
+        feature5Description: "Accept payments seamlessly with integrated payment gateways, CBE, Telebir, MPSA, Chapa.", // New
         feature6Title: "QR Code Menu", // New
         feature6Description: "Enable customers to access your menu via QR codes.", // New
         productsTitle: "Products & Services",
@@ -38,7 +38,7 @@ const translations = {
         emailPlaceholder: "Your Email",
         messagePlaceholder: "Your Message",
         sendMessage: "Send Message",
-        footerText: "© 2023 Haxerpai. All rights reserved."
+        footerText: "© 2025 Haxerpai. All rights reserved."
     },
     am: {
         logo: "ሃክሰርፓይ",
@@ -52,13 +52,13 @@ const translations = {
         tryFree: "ነፃ ይሞክሩት",
         featuresTitle: "ባህሪያት",
         feature1Title: "ኦንላይን ትዕዛዝ",
-        feature1Description: "ኦንላይን ትዕዛዞችን በቀላሉ ወደ �ስራዎ ያዋህዱ።",
+        feature1Description: "ኦንላይን ትዕዛዞችን በቀላሉ ወደ ስራዎ ያዋህዱ።",
         feature2Title: "ምናሌ አስተዳደር",
         feature2Description: "የምግብ ዝርዝሮችዎን በቀላሉ ያዘምኑ እና ያስተዳድሩ።",
         feature3Title: "ትንታኔ",
         feature3Description: "ዝርዝር ስታቲስቲክስ በመጠቀም አፈፃፀምዎን ይከታተሉ።",
         feature4Title: "ብዙ ቋንቋዎች ድጋፍ",
-        feature4Description: "ዓለም አቀፍ ተጠቃሚዎችን ለማግኘት የተለያዩ ቋንቋዎችን ይደግፉ።",
+        feature4Description: "ዓለም አቀፍ ተጠቃሚዎችን ለማግኘት የተለያዩ ቋንቋዎችን ይደግፉ። እንግዝኛ,አማርኛ, ቻይንኛ",
         feature5Title: "ክፍያ ድጋፍ", // New
         feature5Description: "በተዋሃዱ የክፍያ መግቢያዎች ክፍያዎችን በቀላሉ ይቀበሉ።", // New
         feature6Title: "QR ኮድ �ምናሌ", // New
@@ -78,7 +78,7 @@ const translations = {
         emailPlaceholder: "ኢሜይልዎ",
         messagePlaceholder: "መልእክትዎ",
         sendMessage: "መልእክት ላክ",
-        footerText: "© 2023 ሃክሰርፓይ. ሁሉም መብቶች የተጠበቁ ናቸው።"
+        footerText: "© 2025 ሃክሰርፓይ. ሁሉም መብቶች የተጠበቁ ናቸው።"
     }
 };
 
